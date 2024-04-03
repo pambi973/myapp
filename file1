@@ -1,0 +1,32 @@
+Meeting Code
+ubi-gmyy-egr
+
+1. creating two branches in locally and push into remotegit remote add origin https://github.com/pambi973/myapp.git
+git branch -M main
+git push -u origin main
+
+ly
+======================================================================================
+
+=================================================================================================================
+1.
+folder2
+	folder3 <<<<--- Feature1 (folder 3 --> commit 1, 2, 3, 4) (changes in same file, new files addition, some kind of deletion also)
+
+
+
+Merge Feature 2 to master and the see what will happen.
+Feature2
+
+	folder1
+	folder2
+	folder3
+
+2.
+
+How to find out QA branch is having more commits than Dev
+=========================================================================================================
+1 versioning 
+Create a version at commit and then do some more commits push to remote after that go to new directory clone for particular version
+2. Rename versioning after doing commits
+=============================================================
