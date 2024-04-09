@@ -1,0 +1,3 @@
+# Ignore whitespace changes for specific file types
+*.txt -whitespace
+
