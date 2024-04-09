@@ -1,3 +1,5 @@
 # Ignore whitespace changes for specific file types
 *.txt -whitespace
+# .gitattributes file
+*.png merge=union
 
