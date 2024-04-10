@@ -20,4 +20,7 @@ config.ini gitignore
 # Exclude directory
 logs/ gitignore
 
+dev/* export-ignore
+
+
 
