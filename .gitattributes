@@ -1,5 +1,23 @@
 # Ignore whitespace changes for specific file types
-*.txt -whitespace
+#*.txt -whitespace
 # .gitattributes file
-*.png merge=union
+#*.png merge=union
+# Set default behavior to normalize line endings
+#* text=auto
+
+# Explicitly declare text files you want to have LF line endings
+#*.txt text eol=lf
+
+# Declare files that are truly binary and should not be modified
+#*.png binary
+#*.jpg binary
+# Exclude log files
+*.log gitignore
+
+# Exclude configuration file
+config.ini gitignore
+
+# Exclude directory
+logs/ gitignore
+
 
